@@ -1,14 +1,4 @@
-Business Requirements
--Improves communication between teachers and parents through the digital platform
--Removes teachers’ workload and administrative burdens
--Help school decision makers to enhance the performance of teachers and student
-02 User Requirements
-● Admin( Analyse,manage and ensure all records is maintained)
-● Teachers(View any student information,Coursework Marking and making
-online reports
-● Parents(able to see their child record of achievement, can put comment
-and able to sign up for email notification news, updates and basic school
-information
+
 
 Style Guide
 1. Every user is assigned to one of the classes (Admin, Teacher or Parents)

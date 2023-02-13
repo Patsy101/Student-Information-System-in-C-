@@ -1,3 +1,28 @@
+Business Requirements
+-Improves communication between teachers and parents through the digital platform
+-Removes teachers’ workload and administrative burdens
+-Help school decision makers to enhance the performance of teachers and student
+02 User Requirements
+● Admin( Analyse,manage and ensure all records is maintained)
+● Teachers(View any student information,Coursework Marking and making
+online reports
+● Parents(able to see their child record of achievement, can put comment
+and able to sign up for email notification news, updates and basic school
+information
+
+Style Guide
+1. Every user is assigned to one of the classes (Admin, Teacher or Parents)
+2. The three classes inherit their superclass (Class users)
+3. Admin, Teachers, or Parents classes use vector array to enable remove and create features
+4. Each time a new user is added, all fields of users (e.g. name, email address) are initialized using the User() constructor.
+5. Admins get access to all classes and structs through functions to add, edit, remove or create new objects (instance).
+6. Teachers get access to structs (students and classes) in order to view or input record
+7. Parents get access to only view the grade record of their child.
+8. all input data (new,edit,remove or add) will be saved to a CSV file.
+9. Create a session by logging in as a new user
+10. Admin creates new users with one time password
+11. First time users will change password on login
+
 
 # School Information System
 **Data Classes**

@@ -1,5 +1,10 @@
 
 
+![image](https://user-images.githubusercontent.com/100541934/218433301-e8e8e772-82d0-4fe0-9b6a-0c2bd77ab4d5.png)
+![image](https://user-images.githubusercontent.com/100541934/218433486-12383d27-4b6e-4287-b891-8c60838f9d52.png)
+![image](https://user-images.githubusercontent.com/100541934/218433641-b34eea63-3bbd-4924-870a-9770b9dda916.png)
+
+
 Style Guide
 1. Every user is assigned to one of the classes (Admin, Teacher or Parents)
 2. The three classes inherit their superclass (Class users)
